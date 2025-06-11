@@ -5,4 +5,5 @@ description: "A kit that modifies your bike into an electric one"
 created_at: "5 - 30 - 25"
 ---
 
-Day One 
+Day One(1H)
+Worked on CAD models to house the motor controller and Roller to turn the motors
