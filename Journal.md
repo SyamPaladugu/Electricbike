@@ -3,15 +3,15 @@ title: "Electic Bike"
 author: "Syam Paladugu"    
 description: "A kit that modifies your bike into an electric one"
 created_at: "5 - 30 - 25"
-total hours spent: 2h
+total hours spent: 2h 30 minutes
 ---
 
-# Day One(1H)
+# Day One 6/10/25(1H)
 Worked on CAD models to house the motor controller. I wanted to protect it from the elements and also make it look nice.
 Motor Controller housing
 <img width="482" alt="image" src="https://github.com/user-attachments/assets/df958815-afcb-4ca5-a961-a1b0556854e4" />
 
-# Day Two(1 hour 30 minutes)
+# Day Two 6/11/25(1 hour 30 minutes)
 Worked on Making the Cad model that will turn the wheel of the bicycle. Basiclly is a long tube that will rest above the wheels. The motors spin the tube, the tube spins the wheel :). Also Made the trottle will go on top of the handbar and connect to the speed controller.I also made the battery holder that will sit right underneeth my seat to protect the battery from dirt and dust.
 Roller
 ![image](https://github.com/user-attachments/assets/177334ad-b233-4418-83a4-6903f833afe7)
