@@ -1,8 +1,8 @@
 ---
-title: "Holo Display"
+title: "Electic Bike"
 author: "Syam Paladugu"    
-description: "A holographic display"
-created_at: "5 - 25 - 25"
+description: "A kit that modifies your bike into an electric one"
+created_at: "5 - 30 - 25"
 ---
 
 Day One 
