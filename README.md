@@ -1,1 +1,1 @@
-# Electic Bike
+# Electric Bike
