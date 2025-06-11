@@ -3,6 +3,7 @@ title: "Electic Bike"
 author: "Syam Paladugu"    
 description: "A kit that modifies your bike into an electric one"
 created_at: "5 - 30 - 25"
+total hours spent: 2h
 ---
 
 Day One(1H)
