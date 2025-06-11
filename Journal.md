@@ -7,3 +7,4 @@ created_at: "5 - 30 - 25"
 
 Day One(1H)
 Worked on CAD models to house the motor controller and Roller to turn the motors
+<img width="482" alt="image" src="https://github.com/user-attachments/assets/df958815-afcb-4ca5-a961-a1b0556854e4" />
