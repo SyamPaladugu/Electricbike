@@ -17,3 +17,10 @@ Roller
 ![image](https://github.com/user-attachments/assets/177334ad-b233-4418-83a4-6903f833afe7)
 Trottle Housing
 ![image](https://github.com/user-attachments/assets/2e0ced46-d6f6-4a64-b495-9a1419ba64f3)
+Battery Holder:
+![image](https://github.com/user-attachments/assets/e52f5f84-ca08-4e9d-be7e-ddfa8be78926)
+
+Battery Holder with cover:
+![image](https://github.com/user-attachments/assets/d6055a6a-8bc2-4151-8385-d166ae58b866)
+
+
