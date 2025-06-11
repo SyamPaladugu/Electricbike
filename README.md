@@ -2,4 +2,9 @@
 This is a simple project the turns my normal bike into an bike with electric assist that will aid me while riding, powered by 2 Dc motors
 
 ---
-Motor controller
+Motor controller: "$15"
+Throttle: "$10"
+Battery: "$45"
+DC Motors "$12 each"
+TOTAL : "$94"
+---
