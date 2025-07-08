@@ -3,5 +3,5 @@
 |---| 
 |$15|  
 
-This is a simple project that makes a pcb with a nfc chip so I can share my data wireless.
+This is a simple project that makes a pcb with a nfc chip so I can share my data wirelessly.
 
