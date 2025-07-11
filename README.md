@@ -17,6 +17,6 @@ Back:
 <img width="1157" height="713" alt="image" src="https://github.com/user-attachments/assets/5a90e19c-0427-4350-ba92-b8e029549f49" />
 
 
-|PCB||Shipping| 
-|---||--------|
-|$15||$9|  
+  |PCB||Shipping| 
+  |---||--------|
+  |$15||$9|  
