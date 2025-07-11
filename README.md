@@ -11,4 +11,9 @@ Schematic:
 Pcb:
 <img width="1157" height="713" alt="image" src="https://github.com/user-attachments/assets/f4a0d9b8-a0f5-4f6b-8acc-2a1ea46ad97a" />
 
-Front
+Front:
+
+<img width="1157" height="713" alt="image" src="https://github.com/user-attachments/assets/4728601e-688f-40b2-9e6f-82f9d5690ee9" />
+
+Back:
+
