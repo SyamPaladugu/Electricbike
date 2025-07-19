@@ -16,9 +16,17 @@ Back:
 
 <img width="1157" height="713" alt="image" src="https://github.com/user-attachments/assets/5a90e19c-0427-4350-ba92-b8e029549f49" />
 
+Stand:
+<img width="1157" height="441" alt="image" src="https://github.com/user-attachments/assets/50d7dc75-70de-4f45-a459-1634b296df9d" />
+
+Case:
+<img width="1157" height="441" alt="image" src="https://github.com/user-attachments/assets/1c155ba0-a314-4c09-89ef-b5459b9df1ca" />
 
 
-| PCB  | Shipping      | Total |
-| ---- | ------------- | ----- |
-| $14  |  $9           | $23   |
+
+
+
+| PCB  | Shipping      | 3d printed stand/case | Total | 
+| ---- | ------------- | ---------------       | ----- |
+| $14  |  $9           |$2(I have 3d printer)  | $23   |
 
