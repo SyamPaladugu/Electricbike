@@ -3,7 +3,7 @@ title: "Hacker card"
 author: "Syam Paladugu"    
 description: "A customizable hacker card that lets me transmit information"
 created_at: "7- 5 - 25"
-total hours spent: 1h 15m
+total hours spent: 2h
 ---
 
 Day 1 - Designing the schematic:(30 minutes)
@@ -20,7 +20,7 @@ Took me quite a long time to wire the diagram as I had to check for short circut
 ![image](https://github.com/user-attachments/assets/1e993fdf-72e3-415e-be9a-b6e164196f79)
 
 Day 3 - 30
-Made case and stand for the card 
+Made case and stand for the card : 45 min
 <img width="1157" height="441" alt="image" src="https://github.com/user-attachments/assets/1f599318-bfdd-4d5c-9dc1-53004f6f82c1" />
 
 <img width="1157" height="441" alt="image" src="https://github.com/user-attachments/assets/a1159af4-c1d7-402b-81ee-b5cb21d5e283" />
